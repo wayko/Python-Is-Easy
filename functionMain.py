@@ -34,5 +34,8 @@ def booleanExtra(guess):
      
 
     
-
+Genre()
+Album()
+Year()
+Duration()
 booleanExtra(37)
